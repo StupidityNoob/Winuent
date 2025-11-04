@@ -1,7 +1,3 @@
--- Winuent UI v4.1 | WindUI + Fluent Hybrid | One-File
--- FULL: All Elements + Config + Anim + Dark/Light + Search + Mobile + Resize
--- https://github.com/YourUsername/WinuentUI
-
 local Winuent = {}
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
