@@ -1,4 +1,4 @@
-local Winuent = loadstring(game:HttpGet("https://raw.githubusercontent.com/YourUsername/WinuentUI/main/main.lua"))()
+local Winuent = loadstring(game:HttpGet("https://raw.githubusercontent.com/StupidityNoob/Winuent/main/main.lua"))()
 
 -- === CREATE WINDOW ===
 local win = Winuent:CreateWindow{
